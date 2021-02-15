@@ -1,0 +1,1 @@
+# Sequelize-walk-through
